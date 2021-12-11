@@ -11,6 +11,7 @@ I graduated in Telematics Technology looking for opportunities and collaboration
 :outbox_tray: 2022 Goals: create a new project and find a new job.
 
 <br>
+
 **Skills**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
