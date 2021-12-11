@@ -6,6 +6,8 @@ I graduated in Telematics Technology looking for opportunities and collaboration
 
 :books: I’m currently learning everything.
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 <br>
@@ -18,8 +20,7 @@ I graduated in Telematics Technology looking for opportunities and collaboration
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+ 
   
 **Development Tools**
 
