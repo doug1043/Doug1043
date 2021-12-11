@@ -16,6 +16,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=doug1043)
 
+
+# CONTATOS:
 <div>
 <a href="https://instagram.com/douglas.rs97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/douglas-rodrigues-1043/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "doug104397@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
