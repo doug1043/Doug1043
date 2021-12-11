@@ -24,3 +24,5 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 
 ![Snake animation](https://github.com/doug1043/doug1043/blob/output/github-contribution-grid-snake.svg)
+
+.
