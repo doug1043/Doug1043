@@ -9,7 +9,7 @@ I graduated in Telematics Technology looking for opportunities and collaboration
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
-**Aplicações e Dados**
+**Skills**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -18,6 +18,13 @@ I graduated in Telematics Technology looking for opportunities and collaboration
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  
+  
+**Development Tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
 
 <p align="left">
