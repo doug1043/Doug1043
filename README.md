@@ -2,13 +2,13 @@
 ### Hi! I'm Douglas Rodrigues👋
 I graduated in Telematics Technology looking for opportunities and collaboration in projects related to data science and deep learning.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
 <br>
