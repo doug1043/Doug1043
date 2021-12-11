@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Hi! I'm Douglas Rodrigues👋
 I graduated in Telematics Technology looking for opportunities and collaboration in projects related to data science and deep learning.
@@ -15,8 +15,6 @@ I graduated in Telematics Technology looking for opportunities and collaboration
 :books: I’m currently learning everything.
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=doug1043)
 
 
 
