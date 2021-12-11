@@ -9,6 +9,9 @@ I graduated in Telematics Technology looking for opportunities and collaboration
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
+<br>
+<br>
+
 **Skills**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
@@ -26,6 +29,8 @@ I graduated in Telematics Technology looking for opportunities and collaboration
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
+<br>
+<br>
 
 <p align="left">
   💌 Contact: ⤵️
