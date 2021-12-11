@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" top="50px" alt="Computador iuriCode">
 
 ### Hi! I'm Douglas Rodrigues👋
 I graduated in Telematics Technology looking for opportunities and collaboration in projects related to data science and deep learning.
