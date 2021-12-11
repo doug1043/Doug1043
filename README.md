@@ -6,6 +6,14 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=doug1043)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglas-rodrigues-1043/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/douglas.rs97/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglas-rodrigues-1043/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/douglas.rs97/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)
