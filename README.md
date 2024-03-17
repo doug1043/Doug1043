@@ -1,50 +1,58 @@
+<table align="center">
+  <tr>
+    <td>
+      <h1>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hi%2C+There!;I'm+Douglas+Rodrigues%F0%9F%91%8B" alt="Typing SVG" /></a>
+      </h1>
 
-### Hi! I'm Douglas Rodrigues👋
-I graduated in Telematics Technology looking for opportunities and collaboration in projects related to data science and deep learning.
+  <h3 align="left">
+  A technology lover ❤️
+  </h3>
 
-:house_with_garden: I’m from Brazil.
+  <hr/>
 
-:books: I’m currently learning everything.
+  <p>:house_with_garden: I’m from Brazil.</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+  <p>:books: I’m currently learning everything.</p>
 
-:outbox_tray: 2024 Goals: create a new project and find a new job.
+  <p>:outbox_tray: 2024 Goals: create a new project and find a new job.</p>
 
-<br>
+  <hr/>
 
-**Skills**
-
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
- 
+  <h3>Skills</h3>
   
-**Development Tools**
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nodejs,spring,postgres" />
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  <hr/>
   
-<br>
-<br>
+  <h3>Development Tools</h3>
 
-<p align="left">
-  💌 Contact: ⤵️
-</p>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,postman,cloudflare,github" />
+  
+  <hr/>
 
-<div>
-<a href="https://instagram.com/douglas.rs97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/douglas-rodrigues-1043/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:doug104397@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <h3 align="left">💌 Contact: ⤵️</h3>
+
+  <br>
+
+  <div>
+    <a href="https://instagram.com/douglas.rs97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/douglas-rodrigues-1043/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+    <a href="mailto:doug104397@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  </div>
+</td>
+
+<td align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="width: 350px;" alt="Computador iuriCode">
+</td> 
+</tr>
+</table>
+
+<div align="center">
+        <h2>🕹️ My Contributions 🕹️</h2>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake.svg" />
+        </picture>
 </div>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake.svg" />
-</picture>
-
