@@ -43,7 +43,7 @@ I graduated in Telematics Technology looking for opportunities and collaboration
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
