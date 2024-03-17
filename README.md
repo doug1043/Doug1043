@@ -43,8 +43,8 @@ I graduated in Telematics Technology looking for opportunities and collaboration
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/doug1043/Doug1043/output/github-contribution-grid-snake.svg" />
 </picture>
 
