@@ -43,7 +43,7 @@
 </td>
 
 <td align="right">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="width: 350px;" alt="Computador iuriCode">
+  <img src="https://github.com/doug1043/Doug1043/blob/main/computer-illustration.png" style="width: 350px;" alt="Computador iuriCode">
 </td> 
 </tr>
 </table>
