@@ -13,7 +13,7 @@
 
   <p>:house_with_garden: I’m from Brazil.</p>
 
-  <p>:books: I’m currently learning everything.</p>
+  <p>:books: Currently, I'm striving to learn as much as possible.</p>
 
   <p>:outbox_tray: 2024 Goals: create a new project and find a new job.</p>
 
