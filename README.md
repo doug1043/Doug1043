@@ -27,7 +27,7 @@
   
   <h3>Development Tools</h3>
 
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,postman,cloudflare,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,postman,cloudflare,github,docker" />
   
   <hr/>
 
