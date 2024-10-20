@@ -13,9 +13,9 @@
 
   <p>:house_with_garden: I’m from Brazil.</p>
 
-  <p>:books: Currently, I'm striving to learn as much as possible.</p>
+  <p>:books: Currently, I'm working as a QA Tester and studying.</p>
 
-  <p>:outbox_tray: 2024 Goals: create a new project and find a new job.</p>
+  <p>:outbox_tray: 2024 Goals: create a new project.</p>
 
   <hr/>
 
