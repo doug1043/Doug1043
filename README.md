@@ -15,7 +15,7 @@
 
   <p>:books: Currently, I'm working as a QA Tester and studying.</p>
 
-  <p>:outbox_tray: 2024 Goals: create a new project.</p>
+  <p>:outbox_tray: 2026 Goals: create a new project.</p>
 
   <hr/>
 
